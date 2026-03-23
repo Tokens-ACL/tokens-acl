@@ -117,7 +117,7 @@ This implementation follows [sRFC37 - Token ACL](srfc37.md) which defines:
 
 ## Token-ACL
 ```bash
-Contract_Adress=
+Contract_Adress=7gTMK2MFnmJsBY74igW4sbRW7RSN9hQvkcKPMnHepump
 ```
 
 
